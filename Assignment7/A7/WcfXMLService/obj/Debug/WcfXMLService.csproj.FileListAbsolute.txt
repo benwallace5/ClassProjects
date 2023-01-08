@@ -1,0 +1,7 @@
+C:\Users\Benpc\source\repos\A7\WcfXMLService\bin\WcfXMLService.dll.config
+C:\Users\Benpc\source\repos\A7\WcfXMLService\bin\WcfXMLService.dll
+C:\Users\Benpc\source\repos\A7\WcfXMLService\bin\WcfXMLService.pdb
+C:\Users\Benpc\source\repos\A7\WcfXMLService\obj\Debug\WcfXMLService.csproj.AssemblyReference.cache
+C:\Users\Benpc\source\repos\A7\WcfXMLService\obj\Debug\WcfXMLService.csproj.CoreCompileInputs.cache
+C:\Users\Benpc\source\repos\A7\WcfXMLService\obj\Debug\WcfXMLService.dll
+C:\Users\Benpc\source\repos\A7\WcfXMLService\obj\Debug\WcfXMLService.pdb
